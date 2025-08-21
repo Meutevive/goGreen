@@ -2,18 +2,26 @@
   "name": "thomyorke",
   "version": "1.0.0",
   "description": "nice dream",
-  "main": "index.js",
+  "keywords": [],
+  "homepage": "https://github.com/Meutevive/goGreen#readme",
+  "bugs": {
+    "url": "https://github.com/Meutevive/goGreen/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Meutevive/goGreen.git"
+  },
+  "license": "ISC",
+  "author": "",
   "type": "module",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "jsonfile": "^6.1.0",
     "moment": "^2.30.1",
     "random": "^4.1.0",
-    "simple-git": "^3.25.0"
+    "simple-git": "^3.28.0"
   }
 }
